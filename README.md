@@ -3,3 +3,5 @@ Repositório da aula de ICO
 
 Alterando uma parte do arquivo
 Uma nova linha
+
+Um usuário externo alterou o arquivo
