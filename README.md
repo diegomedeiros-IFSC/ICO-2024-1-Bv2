@@ -6,3 +6,4 @@ Uma nova linha
 
 Um usuário externo alterou o arquivo
 Alteração no arquivo - LOCAL
+Uma nova linha - REMOTO
